@@ -1,3 +1,5 @@
+print("Script Running!")
+
 return function(pathStr)
 	local function resolvePath(pathStr)
 		local current = game
